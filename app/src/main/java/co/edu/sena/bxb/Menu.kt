@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
+
 class Menu : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -15,5 +16,8 @@ class Menu : AppCompatActivity() {
             val get_main_view = Intent(this, MainActivity::class.java)
             startActivity(get_main_view)
         }
+
+
+
     }
 }
