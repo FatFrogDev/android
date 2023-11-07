@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bxb</string>
+    <string name="login_title">Login</string>
+    <string name="login_user_label">User</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_user_label_hint">Marie_32</string>
+    <string name="login_password_hint">*****</string>
+    <string name="login_button">Log in</string>
+    <string name="menu_title">Menu</string>
+    <string name="get_back">Back</string>
+</resources>
